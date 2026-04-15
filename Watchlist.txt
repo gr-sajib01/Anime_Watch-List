@@ -1,0 +1,4 @@
+naruto,action,720,finished,7.0
+onepiece,adventure,1122,ongoing,8.5
+AOT,action,87,finished,8.0
+Boruto,action,220,finished,7.0
